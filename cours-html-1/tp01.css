@@ -1,0 +1,47 @@
+.tableau {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    width: 100vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    border-spacing: 0;
+    background: rgb(6, 11, 142);
+    color: aliceblue;
+}
+
+thead {
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: gray;
+}
+
+tr,
+td,
+th {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
