@@ -1,0 +1,40 @@
+.col-12 {
+    background: red;
+}
+
+.col-6 {
+    background: aqua;
+}
+
+.col-6 {
+    background: yellow;
+}
+
+.col-10 {
+    background: violet;
+}
+
+.col-4 {
+    background: gray;
+}
+
+.col {
+    background: blue;
+}
+
+#art1 {
+    background: burlywood;
+}
+
+#art2 {
+    background: palevioletred;
+}
+
+#art3 {
+    background-color: plum;
+}
+
+#foo {
+    background: rgb(114, 32, 114);
+    color: wheat;
+}
