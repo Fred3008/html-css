@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: rgb(179, 176, 163);
+}
+
+img {
+    object-fit: cover;
+    height: 600px;
+}
+
+.carousel-im {
+    height: 6O0px;
+}
