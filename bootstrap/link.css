@@ -4,11 +4,12 @@
 }
 
 .form-container {
-    padding: 20px;
+    padding: 25px;
+    margin: 20px;
 }
 
 h1 {
     text-align: center;
     padding: 20px;
-    margin: 0px Opx 20px;
+    margin: 0px 20px;
 }
